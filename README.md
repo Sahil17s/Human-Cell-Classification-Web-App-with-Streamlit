@@ -6,6 +6,6 @@
 
 ![](readme_resources/Streamlit-Web-App.gif)
 
-[Check out the Deployed Model from here!!!!!](https://human-cell-classification.herokuapp.com/)
+[Check out the Deployed Model!!!!!](https://human-cell-classification.herokuapp.com/)
 
 Please give a ⭐ if you liked it.
